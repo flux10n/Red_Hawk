@@ -1,3 +1,5 @@
+## Redhawk
+
 <img src="https://camo.githubusercontent.com/55c6276b22647884f1959d08e05a86ce3822de9c461de0147d4fb877218ee85a/68747470733a2f2f692e696d6775722e636f6d2f474e57774d46622e706e67" width="55%" align="left"><be>
 - Version 2.0.0
 - Create By R3D#@0R_2H1N A.K.A Tuhinshubhra
@@ -40,6 +42,10 @@
 - Scan For Everything 
 - The Old Lame Scanner
 
-
-
+## Usage
+```console
+$ git clone https://github.com/xjusthaxor/Red_Hawk
+$ cd Red_Hawk
+$ php rhawk.php
+```
 
